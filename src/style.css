@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Poppins", sans-serif;
+  --font-display: "Clash Display", sans-serif;
+
+  --color-canvas: #f1f4f5;
+  --color-primary: #640ef1;
+  --color-dark: #080c2e;
+  --color-muted: #5d5d7c;
+}
